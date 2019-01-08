@@ -17,3 +17,13 @@
 
 **Link(s) to work**: n/a
 
+### Day 3: Janurary 7, 2018
+
+**Today's Progress**: More Node stuff.
+
+**Thoughts**: Bla bla bla
+
+**Link(s) to work**: n/a
+
+
+
